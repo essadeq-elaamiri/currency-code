@@ -1,0 +1,156 @@
+AED #### د.إ; #### UAE dirham
+AFN #### Afs #### Afghan afghani
+ALL #### L #### Albanian lek
+AMD #### AMD #### Armenian dram
+ANG #### NAƒ #### Netherlands Antillean gulden
+AOA #### Kz #### Angolan kwanza
+ARS #### $ #### Argentine peso
+AUD #### $ #### Australian dollar
+AWG #### ƒ #### Aruban florin
+AZN #### AZN #### Azerbaijani manat
+BAM #### KM #### Bosnia and Herzegovina konvertibilna marka
+BBD #### Bds$ #### Barbadian dollar
+BDT #### ৳ #### Bangladeshi taka
+BGN #### BGN #### Bulgarian lev
+BHD #### .د.ب #### Bahraini dinar
+BIF #### FBu #### Burundi franc
+BMD #### BD$ #### Bermudian dollar
+BND #### B$ #### Brunei dollar
+BOB #### Bs. #### Bolivian boliviano
+BRL #### R$ #### Brazilian real
+BSD #### B$ #### Bahamian dollar
+BTN #### Nu. #### Bhutanese ngultrum
+BWP #### P #### Botswana pula
+BYR #### Br #### Belarusian ruble
+BZD #### BZ$ #### Belize dollar
+CAD #### $ #### Canadian dollar
+CDF #### F #### Congolese franc
+CHF #### Fr. #### Swiss franc
+CLP #### $ #### Chilean peso
+CNY #### ¥ #### Chinese/Yuan renminbi
+COP #### Col$ #### Colombian peso
+CRC #### ₡ #### Costa Rican colon
+CUC #### $ #### Cuban peso
+CVE #### Esc #### Cape Verdean escudo
+CZK #### Kč #### Czech koruna
+DJF #### Fdj #### Djiboutian franc
+DKK #### Kr #### Danish krone
+DOP #### RD$ #### Dominican peso
+DZD #### د.ج #### Algerian dinar
+EEK #### KR #### Estonian kroon
+EGP #### £ #### Egyptian pound
+ERN #### Nfa #### Eritrean nakfa
+ETB #### Br #### Ethiopian birr
+EUR #### € #### European Euro
+FJD #### FJ$ #### Fijian dollar
+FKP #### £ #### Falkland Islands pound
+GBP #### £ #### British pound
+GEL #### GEL #### Georgian lari
+GHS #### GH₵ #### Ghanaian cedi
+GIP #### £ #### Gibraltar pound
+GMD #### D #### Gambian dalasi
+GNF #### FG #### Guinean franc
+GQE #### CFA #### Central African CFA franc
+GTQ #### Q #### Guatemalan quetzal
+GYD #### GY$ #### Guyanese dollar
+HKD #### HK$ #### Hong Kong dollar
+HNL #### L #### Honduran lempira
+HRK #### kn #### Croatian kuna
+HTG #### G #### Haitian gourde
+HUF #### Ft #### Hungarian forint
+IDR #### Rp #### Indonesian rupiah
+ILS #### ₪ #### Israeli new sheqel
+INR #### ₹ #### Indian rupee
+IQD #### د.ع #### Iraqi dinar
+IRR #### IRR #### Iranian rial
+ISK #### kr #### Icelandic króna
+JMD #### J$ #### Jamaican dollar
+JOD #### JOD #### Jordanian dinar
+JPY #### ¥ #### Japanese yen
+KES #### KSh #### Kenyan shilling
+KGS #### сом #### Kyrgyzstani som
+KHR #### ៛ #### Cambodian riel
+KMF #### KMF #### Comorian franc
+KPW #### W #### North Korean won
+KRW #### W #### South Korean won
+KWD #### KWD #### Kuwaiti dinar
+KYD #### KY$ #### Cayman Islands dollar
+KZT #### T #### Kazakhstani tenge
+LAK #### KN #### Lao kip
+LBP #### £ #### Lebanese lira
+LKR #### Rs #### Sri Lankan rupee
+LRD #### L$ #### Liberian dollar
+LSL #### M #### Lesotho loti
+LTL #### Lt #### Lithuanian litas
+LVL #### Ls #### Latvian lats
+LYD #### LD #### Libyan dinar
+MAD #### MAD #### Moroccan dirham
+MDL #### MDL #### Moldovan leu
+MGA #### FMG #### Malagasy ariary
+MKD #### MKD #### Macedonian denar
+MMK #### K #### Myanma kyat
+MNT #### ₮ #### Mongolian tugrik
+MOP #### P #### Macanese pataca
+MRO #### UM #### Mauritanian ouguiya
+MUR #### Rs #### Mauritian rupee
+MVR #### Rf #### Maldivian rufiyaa
+MWK #### MK #### Malawian kwacha
+MXN #### $ #### Mexican peso
+MYR #### RM #### Malaysian ringgit
+MZM #### MTn #### Mozambican metical
+NAD #### N$ #### Namibian dollar
+NGN #### ₦ #### Nigerian naira
+NIO #### C$ #### Nicaraguan córdoba
+NOK #### kr #### Norwegian krone
+NPR #### NRs #### Nepalese rupee
+NZD #### NZ$ #### New Zealand dollar
+OMR #### OMR #### Omani rial
+PAB #### B./ #### Panamanian balboa
+PEN #### S/. #### Peruvian nuevo sol
+PGK #### K #### Papua New Guinean kina
+PHP #### ₱ #### Philippine peso
+PKR #### Rs. #### Pakistani rupee
+PLN #### zł #### Polish zloty
+PYG #### ₲ #### Paraguayan guarani
+QAR #### QR #### Qatari riyal
+RON #### L #### Romanian leu
+RSD #### din. #### Serbian dinar
+RUB #### R #### Russian ruble
+SAR #### SR #### Saudi riyal
+SBD #### SI$ #### Solomon Islands dollar
+SCR #### SR #### Seychellois rupee
+SDG #### SDG #### Sudanese pound
+SEK #### kr #### Swedish krona
+SGD #### S$ #### Singapore dollar
+SHP #### £ #### Saint Helena pound
+SLL #### Le #### Sierra Leonean leone
+SOS #### Sh. #### Somali shilling
+SRD #### $ #### Surinamese dollar
+SYP #### LS #### Syrian pound
+SZL #### E #### Swazi lilangeni
+THB #### ฿ #### Thai baht
+TJS #### TJS #### Tajikistani somoni
+TMT #### m #### Turkmen manat
+TND #### DT #### Tunisian dinar
+TRY #### TRY #### Turkish new lira
+TTD #### TT$ #### Trinidad and Tobago dollar
+TWD #### NT$ #### New Taiwan dollar
+TZS #### TZS #### Tanzanian shilling
+UAH #### UAH #### Ukrainian hryvnia
+UGX #### USh #### Ugandan shilling
+USD #### US$ #### United States dollar
+UYU #### $U #### Uruguayan peso
+UZS #### UZS #### Uzbekistani som
+VEB #### Bs #### Venezuelan bolivar
+VND #### ₫ #### Vietnamese dong
+VUV #### VT #### Vanuatu vatu
+WST #### WS$ #### Samoan tala
+XAF #### CFA #### Central African CFA franc
+XCD #### EC$ #### East Caribbean dollar
+XDR #### SDR #### Special Drawing Rights
+XOF #### CFA #### West African CFA franc
+XPF #### F #### CFP franc
+YER #### YER #### Yemeni rial
+ZAR #### R #### South African rand
+ZMK #### ZK #### Zambian kwacha
+ZWR #### Z$ #### Zimbabwean dollar
