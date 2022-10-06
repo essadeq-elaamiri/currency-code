@@ -1,4 +1,4 @@
-enum Direction {
+enum CurrencyCode {
     AED="United Arab Emirates Dirham",
     AFN="Afghanistan Afghani",
     ALL="Albania Lek",
